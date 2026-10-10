@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:10B981&height=190&section=header&text=Rutvik%20Ramani&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=AI%20Engineer%20in%20Atlanta%2C%20GA&descSize=18&descAlignY=58" alt="Rutvik Ramani, AI Engineer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:10B981&height=190&section=header&text=Rutvik%20Ramani&fontSize=48&fontColor=ffffff&fontAlignY=40" alt="Rutvik Ramani" width="100%" />
 </p>
 
 <p align="center">
