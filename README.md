@@ -1,6 +1,10 @@
-<h1 align="center">Hi, I am Rutvik Ramani</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:10B981&height=190&section=header&text=Rutvik%20Ramani&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=AI%20Engineer%20in%20Atlanta%2C%20GA&descSize=18&descAlignY=58" alt="Rutvik Ramani, AI Engineer in Atlanta, GA" width="100%" />
+</p>
 
-<h3 align="center">AI Engineer and Full-Stack Engineer based in Atlanta, GA</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=1200&color=0EA5E9&center=true&vCenter=true&width=420&height=40&lines=AI+Engineer;Full-Stack+Engineer" alt="AI Engineer and Full-Stack Engineer" />
+</p>
 
 <p align="center">
   I build AI-powered applications, web platforms, and automation that replaces manual work.
@@ -12,88 +16,82 @@
   <a href="mailto:rutvikramani32@gmail.com"><img src="https://img.shields.io/badge/Email-10B981?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
----
+## About
 
-## About me
-
-- AI Engineer with 5 years of experience across AI, web platforms, and workflow automation
-- Currently building AI invoice processing and document intelligence at PrimeTime Leasing
-- Working with LLMs, RAG, LangChain, and LangGraph, backed by React, Angular, Node.js, and Spring Boot
-- M.S. in Computer Science from Kennesaw State University
+AI Engineer with 5 years of experience across AI, web platforms, and workflow automation. I currently build AI invoice processing and document intelligence at PrimeTime Leasing, working with LLMs, RAG, LangChain, and LangGraph on top of React, Angular, Node.js, and Spring Boot. I hold an M.S. in Computer Science from Kennesaw State University.
 
 ## Tech stack
 
-**Languages**
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" alt="SQL" />
-</p>
-
-**AI and LLM**
-
-<p>
-  <img src="https://img.shields.io/badge/RAG%20Systems-7C3AED?style=for-the-badge" alt="RAG Systems" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" alt="LangGraph" />
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace" />
-  <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge" alt="FAISS" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
-</p>
-
-**Frontend**
-
-<p>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
-</p>
-
-**Backend**
-
-<p>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/REST%20APIs-0EA5E9?style=for-the-badge" alt="REST APIs" />
-</p>
-
-**Databases**
-
-<p>
-  <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge" alt="MSSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge" alt="Oracle" />
-</p>
-
-**Cloud and tools**
-
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge" alt="AWS" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge" alt="Azure" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge" alt="CI/CD" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-</p>
+<table>
+  <tr>
+    <td><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=py,java,js,ts&theme=dark" alt="py, java, js, ts" /></td>
+  </tr>
+  <tr>
+    <td><b>AI and LLM</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/RAG%20Systems-0F172A?style=flat-square&labelColor=0EA5E9" alt="RAG Systems" />
+      <img src="https://img.shields.io/badge/LangChain-0F172A?style=flat-square&labelColor=0EA5E9" alt="LangChain" />
+      <img src="https://img.shields.io/badge/LangGraph-0F172A?style=flat-square&labelColor=0EA5E9" alt="LangGraph" />
+      <img src="https://img.shields.io/badge/HuggingFace-0F172A?style=flat-square&labelColor=0EA5E9" alt="HuggingFace" />
+      <img src="https://img.shields.io/badge/Transformers-0F172A?style=flat-square&labelColor=0EA5E9" alt="Transformers" />
+      <img src="https://img.shields.io/badge/FAISS-0F172A?style=flat-square&labelColor=0EA5E9" alt="FAISS" />
+      <img src="https://img.shields.io/badge/Vector%20Databases-0F172A?style=flat-square&labelColor=0EA5E9" alt="Vector Databases" />
+      <img src="https://img.shields.io/badge/Streamlit-0F172A?style=flat-square&labelColor=0EA5E9" alt="Streamlit" />
+      <img src="https://img.shields.io/badge/LLM%20Guardrails-0F172A?style=flat-square&labelColor=0EA5E9" alt="LLM Guardrails" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=angular,react,redux&theme=dark" alt="angular, react, redux" /></td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=spring,nodejs,express,django&theme=dark" alt="spring, nodejs, express, django" /></td>
+  </tr>
+  <tr>
+    <td><b>Databases</b></td>
+    <td><img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql&theme=dark" alt="mongodb, postgres, mysql" /></td>
+  </tr>
+  <tr>
+    <td><b>Cloud and tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=aws,azure,docker,git,postman,figma&theme=dark" alt="aws, azure, docker, git, postman, figma" /></td>
+  </tr>
+</table>
 
 ## Selected work
 
-| Project | What it does | Built with |
-| --- | --- | --- |
-| **AI Invoice Processing** | Turns uploaded PDF invoices into validated, structured data and routes them for approval, with human review for uncertain results | Python, LLMs, Spring Boot, Angular |
-| **NewsRAG** | News Q&A system that retrieves relevant articles and answers from the retrieved content | LangChain, HuggingFace, FAISS, Streamlit |
-| **Renovation Management Platform** | Renovation project platform with LLM assistance built into everyday workflows | React, Node.js, MongoDB, AWS |
-| **Autopilot** | Task management with ML-based prioritization and deadline-risk prediction | Machine Learning, React, Node.js, MongoDB |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>AI Invoice Processing</h3>
+      <p>Turns uploaded PDF invoices into validated, structured data and routes them for approval, with human review for uncertain results.</p>
+      <sub><code>Python</code> <code>LLMs</code> <code>Spring Boot</code> <code>Angular</code></sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>NewsRAG</h3>
+      <p>News Q&amp;A system that retrieves relevant articles and answers from the retrieved content.</p>
+      <sub><code>LangChain</code> <code>HuggingFace</code> <code>FAISS</code> <code>Streamlit</code></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Renovation Management Platform</h3>
+      <p>Renovation project platform with LLM assistance built into everyday workflows.</p>
+      <sub><code>React</code> <code>Node.js</code> <code>MongoDB</code> <code>AWS</code></sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Autopilot</h3>
+      <p>Task management with ML-based prioritization and deadline-risk prediction.</p>
+      <sub><code>Machine Learning</code> <code>React</code> <code>Node.js</code> <code>MongoDB</code></sub>
+    </td>
+  </tr>
+</table>
 
 ## Get in touch
 
 Open to new opportunities. The fastest way to reach me is [email](mailto:rutvikramani32@gmail.com) or [LinkedIn](https://www.linkedin.com/in/rutvik-ramani-2649b5148).
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:10B981&height=100&section=footer" alt="" width="100%" />
+</p>
